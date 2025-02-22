@@ -57,7 +57,7 @@ You can install the required libraries using the following commands:
    - **Reset**: To reset the application, click the "Reset" button, which will clear all fields and selections.
 
 ## File Structure
-/Steganography-Tool
+
     ├── steganography_tool.py  # Python script containing the code
     
     ├── logo.jpg               # Logo image used in the app (optional, can be replaced)
