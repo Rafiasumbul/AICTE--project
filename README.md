@@ -1,4 +1,4 @@
-README file for your Steganography Tool project:
+README file for this Steganography Tool project:
 
 
 # Steganography Tool
@@ -61,8 +61,12 @@ You can install the required libraries using the following commands:
     ├── steganography_tool.py  # Python script containing the code
     
     ├── logo.jpg               # Logo image used in the app (optional, can be replaced)
-    
+
+    ├── Secret_image.png       # Output encrypted image from the app
+
     ├── README.md              # This README file
+
+    ├── AICTE PROJECT PPT.pptx  # PRESENTATION OF THE PROJECT 
 
 ## Acknowledgements
 
